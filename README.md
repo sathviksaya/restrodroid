@@ -1,6 +1,6 @@
-# HotelHost 
+# Restrodroid 
 
-  HotelHost is a system of App and a Line following Robot working together to automate a restaurant's day to day processes.
+  Restrodroid is a system of App and a Line following Robot working together to automate a restaurant's day to day processes.
 
 ## Puthon App
 
